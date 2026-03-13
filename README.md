@@ -15,7 +15,7 @@ I work mostly with JavaScript/TypeScript, love modern frontend tooling, and I’
 
 🛠️ Have experience with WordPress (maintenance, integrations, REST API)
 
-🌍  I'm based in Poltava, Ukraine
+🌍  Based in Poltava, Ukraine
 
 ## 🧰 Tech Stack
 
