@@ -17,6 +17,13 @@ I work mostly with JavaScript/TypeScript, love modern frontend tooling, and I’
 
 -  Based in Poltava, Ukraine
 
+## 📌 What I Care About
+
+- Clean, readable code & maintainable structure
+- Good naming, consistent formatting, predictable logic
+- Practical best practices (not overengineering)
+- Performance, SEO basics, and accessibility
+
 ## 🧰 Tech Stack
 
 ### Core
