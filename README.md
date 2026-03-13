@@ -9,13 +9,13 @@ I enjoy building clean, scalable web applications with great UX and solid archit
 
 I work mostly with JavaScript/TypeScript, love modern frontend tooling, and I’m always improving my backend skills.
 
-🧠 Interested in architecture, performance, and clean code
+- Interested in architecture, performance, and clean code
 
-🔥 Enjoy building reusable UI components and reliable APIs
+- Enjoy building reusable UI components and reliable APIs
 
-🛠️ Have experience with WordPress (maintenance, integrations, REST API)
+- Have experience with WordPress (maintenance, integrations, REST API)
 
-🌍  Based in Poltava, Ukraine
+-  Based in Poltava, Ukraine
 
 ## 🧰 Tech Stack
 
